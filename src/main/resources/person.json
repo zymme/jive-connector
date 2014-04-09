@@ -1,0 +1,30 @@
+{
+	"id": "2024",
+	"displayName": "David Zimmer",
+	"emails": 
+	[
+		{
+			"jive_label": "Email",
+			"primary": true,
+			"type": "work",
+			"value": "david.zimmer@pinnacol.com"
+		}
+	],
+
+	"jive": 
+	{
+		
+
+		"username": "david.zimmer@pinnacol.com"
+	},
+
+	"name": 
+	{
+		"familyName": "Zimmer",
+		"formatted": "David Zimmer",
+		"givenName": "David"
+	},
+
+	"type": "update",
+	"status": "Updating status from Jive REST API - getting this figured out :)! (like this!)"
+}

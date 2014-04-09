@@ -1,0 +1,36 @@
+{
+	"id": "2017",
+	"displayName": "Brian Price",
+	"emails": 
+	[
+		{
+			"jive_label": "Email",
+			"primary": true,
+			"type": "work",
+			"value": "brian.price@pinnacol.com"
+		}
+	],
+
+	"jive": 
+	{
+		"level": 
+		{
+			"description": "",
+			"imageURI": "https://pinnacol.jiveon.com/api/core/v3/images/status/statusicon-34.gif",
+			"name": "tracker",
+			"points": 862
+		},
+
+		"username": "brian.price@pinnacol.com"
+	},
+
+	"name": 
+	{
+		"familyName": "Price",
+		"formatted": "Brian Price",
+		"givenName": "Brian"
+	},
+
+	"type": "update",
+	"status": "Zed updated my status using the Jive REST API!"
+}
